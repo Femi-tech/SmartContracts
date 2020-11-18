@@ -1,5 +1,5 @@
 # SmartContracts
-## Building basic smart contracts with Solidity
+## Creating smart contracts with Solidity
 ### Level One: The AssociateProfitSplitter Contract
 At the top of your contract, you will need to define the following public variables:
 
