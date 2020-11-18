@@ -39,7 +39,7 @@ Create a fallback function using function() external payable, and call the depos
 ### Test the contract
 In the Deploy tab in Remix, deploy the contract to your local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545. You will need to fill in the constructor parameters with your designated employee addresses. Test the deposit function by sending various values. Keep an eye on the employee balances as you send different amounts of Ether to the contract and ensure the logic is executing properly.
 
-## ![Associate-profit](Images/Associate-profit.PNG) !![contract-deploy](Images/contract-deploy.PNG)
+### ![Associate-profit](Images/Associate-profit.PNG) ![contract-deploy](Images/contract-deploy.PNG)
 
 
 ### Level Two: The TieredProfitSplitter Contract
