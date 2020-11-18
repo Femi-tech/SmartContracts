@@ -137,5 +137,5 @@ Congratulate yourself for building such complex smart contracts in your first we
 ### Deploy the contracts to a live Testnet
 Once you feel comfortable with your contracts, point MetaMask to the Kovan or Ropsten network. Ensure you have test Ether on this network! After switching MetaMask to Kovan, deploy the contracts as before and copy/keep a note of their deployed addresses. The transactions will also be in your MetaMask history, and on the blockchain permanently to explore later.
 
-![Tiered-profit](Images/Tiered-profit.PNG)
+![Deferred-contract](Images/Deferred-contract.PNG)
 
