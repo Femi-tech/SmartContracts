@@ -19,7 +19,7 @@ contract AssociateProfitSplitter {
 
     function deposit() public payable {
         // @TODO: Split `msg.value` into three
-        uint amount = msg.value /3  ; // Your code here!
+        uint amount = msg.value /3;
 
         // @TODO: Transfer the amount to each employee
         employee_one.transfer(amount);
